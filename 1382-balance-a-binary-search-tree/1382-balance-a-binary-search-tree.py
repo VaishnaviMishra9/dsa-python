@@ -28,3 +28,4 @@ class Solution:
 
         inorder(root)
         return build_balanced(0, len(sorted_vals) - 1)
+        
