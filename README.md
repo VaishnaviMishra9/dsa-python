@@ -51,4 +51,24 @@
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/VaishnaviMishra9/dsa-python/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Array
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/VaishnaviMishra9/dsa-python/tree/master/3411-maximum-subarray-with-equal-products) |
+## Math
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/VaishnaviMishra9/dsa-python/tree/master/3411-maximum-subarray-with-equal-products) |
+## Sliding Window
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/VaishnaviMishra9/dsa-python/tree/master/3411-maximum-subarray-with-equal-products) |
+## Enumeration
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/VaishnaviMishra9/dsa-python/tree/master/3411-maximum-subarray-with-equal-products) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/VaishnaviMishra9/dsa-python/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
