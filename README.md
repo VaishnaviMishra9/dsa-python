@@ -37,6 +37,7 @@
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/VaishnaviMishra9/dsa-python/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/VaishnaviMishra9/dsa-python/tree/master/1382-balance-a-binary-search-tree) |
+| [3934-smallest-unique-subarray](https://github.com/VaishnaviMishra9/dsa-python/tree/master/3934-smallest-unique-subarray) |
 ## String Matching
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/VaishnaviMishra9/dsa-python/tree/master/0572-subtree-of-another-tree) |
+| [3934-smallest-unique-subarray](https://github.com/VaishnaviMishra9/dsa-python/tree/master/3934-smallest-unique-subarray) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -57,6 +59,7 @@
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/VaishnaviMishra9/dsa-python/tree/master/3411-maximum-subarray-with-equal-products) |
+| [3934-smallest-unique-subarray](https://github.com/VaishnaviMishra9/dsa-python/tree/master/3934-smallest-unique-subarray) |
 ## Math
 |  |
 | ------- |
@@ -77,4 +80,16 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/VaishnaviMishra9/dsa-python/tree/master/0102-binary-tree-level-order-traversal) |
+## Hash Table
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/VaishnaviMishra9/dsa-python/tree/master/3934-smallest-unique-subarray) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/VaishnaviMishra9/dsa-python/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/VaishnaviMishra9/dsa-python/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
