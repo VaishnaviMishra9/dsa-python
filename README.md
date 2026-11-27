@@ -58,6 +58,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/VaishnaviMishra9/dsa-python/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/VaishnaviMishra9/dsa-python/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3934-smallest-unique-subarray](https://github.com/VaishnaviMishra9/dsa-python/tree/master/3934-smallest-unique-subarray) |
 ## Math
@@ -97,4 +98,8 @@
 |  |
 | ------- |
 | [3360-stone-removal-game](https://github.com/VaishnaviMishra9/dsa-python/tree/master/3360-stone-removal-game) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/VaishnaviMishra9/dsa-python/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
