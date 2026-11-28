@@ -6,6 +6,7 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/VaishnaviMishra9/dsa-python/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/VaishnaviMishra9/dsa-python/tree/master/0110-balanced-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/VaishnaviMishra9/dsa-python/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/VaishnaviMishra9/dsa-python/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/VaishnaviMishra9/dsa-python/tree/master/0572-subtree-of-another-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/VaishnaviMishra9/dsa-python/tree/master/1382-balance-a-binary-search-tree) |
@@ -13,6 +14,7 @@
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/VaishnaviMishra9/dsa-python/tree/master/0110-balanced-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/VaishnaviMishra9/dsa-python/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/VaishnaviMishra9/dsa-python/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/VaishnaviMishra9/dsa-python/tree/master/0572-subtree-of-another-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/VaishnaviMishra9/dsa-python/tree/master/1382-balance-a-binary-search-tree) |
@@ -21,6 +23,7 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/VaishnaviMishra9/dsa-python/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/VaishnaviMishra9/dsa-python/tree/master/0110-balanced-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/VaishnaviMishra9/dsa-python/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/VaishnaviMishra9/dsa-python/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/VaishnaviMishra9/dsa-python/tree/master/0572-subtree-of-another-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/VaishnaviMishra9/dsa-python/tree/master/1382-balance-a-binary-search-tree) |
@@ -82,6 +85,7 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/VaishnaviMishra9/dsa-python/tree/master/0102-binary-tree-level-order-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/VaishnaviMishra9/dsa-python/tree/master/0199-binary-tree-right-side-view) |
 ## Hash Table
 |  |
 | ------- |
