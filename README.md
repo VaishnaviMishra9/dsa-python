@@ -10,6 +10,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/VaishnaviMishra9/dsa-python/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/VaishnaviMishra9/dsa-python/tree/master/0572-subtree-of-another-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/VaishnaviMishra9/dsa-python/tree/master/1382-balance-a-binary-search-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/VaishnaviMishra9/dsa-python/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -18,6 +19,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/VaishnaviMishra9/dsa-python/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/VaishnaviMishra9/dsa-python/tree/master/0572-subtree-of-another-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/VaishnaviMishra9/dsa-python/tree/master/1382-balance-a-binary-search-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/VaishnaviMishra9/dsa-python/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -27,6 +29,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/VaishnaviMishra9/dsa-python/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/VaishnaviMishra9/dsa-python/tree/master/0572-subtree-of-another-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/VaishnaviMishra9/dsa-python/tree/master/1382-balance-a-binary-search-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/VaishnaviMishra9/dsa-python/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -86,6 +89,7 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/VaishnaviMishra9/dsa-python/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/VaishnaviMishra9/dsa-python/tree/master/0199-binary-tree-right-side-view) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/VaishnaviMishra9/dsa-python/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Hash Table
 |  |
 | ------- |
